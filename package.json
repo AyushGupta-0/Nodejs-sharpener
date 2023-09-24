@@ -1,0 +1,23 @@
+{
+  "name": "s-node",
+  "version": "1.0.0",
+  "description": "node js learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushGupta-0/Nodejs-sharpener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyushGupta-0/Nodejs-sharpener/issues"
+  },
+  "homepage": "https://github.com/AyushGupta-0/Nodejs-sharpener#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
